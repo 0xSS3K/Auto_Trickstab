@@ -88,34 +88,6 @@
 
 ---
 
-### 📊 **Visual Enhancements**
-
-#### **Execution State Display**
-```
-STATE: PREPARING
-STATE: EXECUTING  (red)
-STATE: COOLDOWN   (green)
-STUCK! Escaping...
-```
-
-#### **Performance Stats Overlay**
-```
-FPS: 280
-Sim Time: 2.4ms
-Traces: 12 (Cached: 5)
-Avg Frame: 3.5ms
-Warp Ticks: 23
-Smooth Warp: 18
-```
-
-#### **Path Visualization**
-- Green line: Optimal path
-- Red line: Path blocked by wall
-- Magenta dots: Smooth warp bonus ticks
-- White square: Blink position (where enemy sees you)
-
----
-
 ### 📈 **Performance Metrics**
 
 | Metric | Original | Optimized | Improvement |
